@@ -11,6 +11,7 @@ This program will generate a password for you!
 Use this website to generate your own password!
 Simply click on this link below and you'll have a new password in seconds, just
 click generate password!
+https://dlrethan.github.io/Password-Generator/
 
 ### Languages Learned
 
